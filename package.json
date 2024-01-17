@@ -1,0 +1,12 @@
+{
+  "license": "MIT",
+  "scripts": {
+    "start": "vite dev",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "htmx.org": "^1.9.10",
+    "hyperscript.org": "^0.9.12",
+    "tailwindcss": "^3.4.1"
+  }
+}
